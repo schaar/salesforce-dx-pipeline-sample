@@ -14,3 +14,5 @@ public with sharing class DemoController {
         return appVersion;
     }
 }
+
+Test
